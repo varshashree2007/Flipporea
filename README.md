@@ -15,6 +15,6 @@ developed using C programming.
 3. 2.Run:
 4. flipcards.exe
 
-5. ## Description
+5. ## Features
 6. -Grid- based card flip game
 7. -Numbers are shown after tapping a card
